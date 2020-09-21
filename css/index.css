@@ -1,0 +1,10 @@
+.red {
+  color: rgb(255, 102, 255);
+}
+
+.yo {
+  color: rgb(204, 0, 204);
+}
+body {
+  background: -webkit-linear-gradient(bottom, #ffffff, #ff00b3) !important;
+}
