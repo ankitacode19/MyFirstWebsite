@@ -5,6 +5,6 @@
 .yo {
   color: rgb(204, 0, 204);
 }
-body {
-  background: -webkit-linear-gradient(bottom, #ffffff, #ff00b3) !important;
+.body {
+  background-color: linear-gradient(#ffffff, #ff00b3) !important;
 }
