@@ -5,6 +5,6 @@
 .yo {
   color: rgb(204, 0, 204);
 }
-.body {
+body {
   background-color: linear-gradient(#ffffff, #ff00b3) !important;
 }
