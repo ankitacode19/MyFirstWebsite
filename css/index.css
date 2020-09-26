@@ -12,3 +12,6 @@
 body {
   background-color: linear-gradient(#ffffff, #ff00b3) !important;
 }
+.nav {
+  background-color: #ff00b3 !important;
+}
