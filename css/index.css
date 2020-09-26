@@ -9,9 +9,9 @@
 .yo {
   color: rgb(204, 0, 204);
 }
-body {
-  background-color: linear-gradient(#ffffff, #ff00b3) !important;
+.body {
+  background-image: linear-gradient(#ffffff, #ff00b3) !important;
 }
-.nav {
-  background-color: #ff00b3 !important;
+.navbar {
+  background-color: #f199d7 !important;
 }
