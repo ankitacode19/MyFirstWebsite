@@ -9,9 +9,14 @@
 .yo {
   color: rgb(204, 0, 204);
 }
-.body {
-  background-image: linear-gradient(#ffffff, #ff00b3) !important;
+body {
+  background-image: linear-gradient(#ff00b3, #ffffff) !important;
 }
 .navbar {
   background-color: #f199d7 !important;
+}
+.card {
+  margin-left: 18%;
+  margin-right: 18%;
+  width: auto;
 }
