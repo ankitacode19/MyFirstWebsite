@@ -15,4 +15,8 @@ body {
 .navbar {
   background-color: #f199d7 !important;
 }
-.card;
+.card {
+  margin-left: 18%;
+  margin-right: 18%;
+  width: auto;
+}
