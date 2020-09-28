@@ -23,7 +23,7 @@ body {
 }
 
 .nav-link {
-  color: #ffffff;
+  color: #ffffff !important;
 }
 .card {
   margin-left: 10%;
@@ -40,5 +40,5 @@ body {
 }
 
 button {
-  outline-color: #ffffff;
+  outline-color: #ffffff !important;
 }
