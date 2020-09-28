@@ -21,6 +21,10 @@ body {
 .navbar {
   background-color: #f199d7 !important;
 }
+
+.nav-link {
+  color: #ffffff;
+}
 .card {
   margin-left: 10%;
   margin-right: 10%;
