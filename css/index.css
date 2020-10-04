@@ -16,7 +16,7 @@ h2 {
   color: rgb(204, 0, 204);
 }
 body {
-  background-image: linear-gradient(#ff00b3, #ffffff) !important;
+  background-image: linear-gradient(#ff00b3, #f8f4f4) !important;
 }
 .navbar {
   background-color: #f199d7 !important;
